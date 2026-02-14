@@ -1,19 +1,19 @@
-🍕 Pizza Sales Analysis Dashboard – Power BI
+# 🍕 Pizza Sales Analysis Dashboard – Power BI
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 <p align="center">
   <img src="Pizza.png" width="800">
 </p>
 
 
-📌 Project Overview
+## 📌 Dashboard Overview
 
-This project showcases an interactive Pizza Sales Analysis Dashboard built using Power BI to monitor sales performance, track KPIs, and identify revenue-driving categories and products.
+This showcases an interactive Pizza Sales Analysis Dashboard built using Power BI to monitor sales performance, track KPIs, and identify revenue-driving categories and products.
 
 The dashboard provides clear business insights through dynamic visuals and trend analysis.
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 To analyze pizza sales data and help stakeholders:
 
@@ -27,7 +27,7 @@ Analyze product-level performance
 
 Improve revenue strategy through data-driven decisions
 
-📈 Key Performance Indicators (KPIs)
+## 📈 Key Performance Indicators (KPIs)
 
 Total Sales: 817.86K
 
@@ -37,7 +37,7 @@ Total Quantities Sold: 50K
 
 Month-over-Month Growth: +8.6%
 
-🔎 Key Insights
+## 🔎 Key Insights
 
 The Classic category generated the highest revenue (220K+).
 
@@ -47,7 +47,7 @@ Top-performing pizzas include Thai Chicken and Barbecue variants.
 
 Sales show a steady upward trend across multiple months.
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 Power BI
 
